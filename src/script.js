@@ -2,7 +2,7 @@
 //Atravez da  quantidade de xp que o heroi possui
  
 //declarando uma variavel com o nome do heori
-let namo = "naruto"
+let name = "naruto"
 // criandp uma estrutara de repetição para armazenar o ultimo valor
 let ultimo//a variavel tem que está fora do escopo do for para o loop
 // usando o for para fazer o xp e aumentado graduamente
@@ -79,4 +79,4 @@ for(i=10000;i<=10200;i+=50){
     resultado=upxp
     console.log(upxp)
 }
-console.log(`O heroi naruto finalmete chegou no radiante:${resultado}`)
+console.log(`O heroi ${name} finalmete chegou no radiante:${resultado}`)
