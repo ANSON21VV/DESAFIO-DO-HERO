@@ -1,12 +1,9 @@
-// preciso criar uma estrutura de código para monstrar o nível do héroi e nome
-//declarando variaveis
-
-
-console.log("Meta de experiência alcançada!");
+// preciso criar uma estrutura de código para mostrar o nível do herói e  o nome.
+//declarando variaveis.
 
 let name= "FLASH"
 let nivel= 0
-// vamos usar a estrutara de if else if else
+// vamos usar a estrutara de if else if else.
 if(nivel<=1000){
 
         console.log("O héroi "+ name + " está no nivel Ferro ")
