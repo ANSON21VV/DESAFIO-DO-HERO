@@ -1,11 +1,11 @@
-//Desafio do heroi: onde devo criar um código para montrar em que categoria o heroi se encontra.
-//Atravez da  quantidade de xp que o heroi possui
+//Desafio do herói: onde devo criar um código para mostrar em qual categoria o herói se encontra.
+//Através da quantidade de XP que o herói possui.
  
 //declarando uma variavel com o nome do heori
 let name = "naruto"
-// criandp uma estrutara de repetição para armazenar o ultimo valor
-let ultimo//a variavel tem que está fora do escopo do for para o loop
-// usando o for para fazer o xp e aumentado graduamente
+// criando uma estrutara de repetição para armazenar o ultimo valor.
+let ultimo//variavel tem que está fora do escopo do "for" para o loop.
+// usando o "for" para fazer o xp  aumentado graduamente
 //para mostra a frase"Parabens por chegar no nivel ferro: quando chegar no nivel necessario  
 
 for(let i= 0; i<=1000; i+=100){
