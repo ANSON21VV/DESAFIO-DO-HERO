@@ -10,14 +10,13 @@ let ultimo//a variavel tem que está fora do escopo do for para o loop
 
 for(let i= 0; i<=1000; i+=100){
    // 
-    let vai=`xp:${i}`
+    let vai=`xp:${i}`//estrutura necessaria para guardar o valor da repetição
 
     ultimo= vai
 
     console.log(vai)
-  
-} 
-console.log( `Parabens por chegar no nivel ferro: ${ultimo}` );
+}
+console.log( `Parabens por chegar no nivel ferro: ${ultimo}` );//estrutura necessaria para guardar o valor da repetição
 
 let resui // variavel fora do escopa para guarda o ultimo número do escopo
 
